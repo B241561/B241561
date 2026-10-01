@@ -32,7 +32,7 @@ I enjoy turning ideas into working projects — from desktop applications and ma
 
 **Current focus**
 
-`DSA` · `Java` · `Python` · `SQL` · `Machine Learning` · `Data Analytics` · `DevOps`
+`DSA` · `Java` · `Python` · `SQL` · `Machine Learning` · `Data Science` ·
 
 **Exploring**
 
