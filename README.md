@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=ARMAN%20KAUSHIK&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%7C%20Software%20%7C%20Data&descSize=17&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=ARMAN%20KAUSHIK&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20AI%2FM%20%7C%20Data%20Science%20%7&descSize=17&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=55&lines=Building+things+that+solve+real+problems.;Software+Development+%7C+AI%2FML+%7C+Data+Analytics;Learning+by+building%2C+testing+%26+improving." />
