@@ -138,9 +138,6 @@ System Design       ████████░░░░░░░░░░░░
 
 ## 💬 Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Dev Quote"/>
-</p>
 
 ---
 
