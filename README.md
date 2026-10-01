@@ -19,9 +19,6 @@
 </a>
 
 </div>
-## 👋 Hello!
-
-I'm a Computer Science student and developer interested in software development, DSA, and AI/ML.
 
 <p align="center">
   <img src="assets/cat.gif" width="180">
