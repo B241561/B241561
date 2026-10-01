@@ -11,6 +11,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/B241561">
+    <img src="https://img.shields.io/badge/GitHub-B241561-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arman-kaushik-29b5b6370/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arman%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 </div>
 
