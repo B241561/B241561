@@ -102,7 +102,6 @@ Machine-learning failure analysis engine focused on:
 </td>
 </tr>
 </table>
-🚀 Featured Projects
 
 🧠 AI Resume Analyzer
 
@@ -167,16 +166,4 @@ It focuses on model evaluation, failure diagnosis, root-cause analysis, explaina
 </p>
 ---
 
-<!-- ===================== CURRENTLY BUILDING ===================== -->
 
-## 🧭 Currently Building
-
-```text
-┌────────────────────────────────────────────────────┐
-│  DSA                ████████████████░░░            │
-│  Machine Learning   ██████████████░░░░             │
-│  Data Analytics     █████████████░░░░░             │
-│  Java               █████████████░░░░░             │
-│  SQL                ████████████░░░░░░             │
-│  DevOps             ██████████░░░░░░░░             │
-└────────────────────────────────────────────────────┘
