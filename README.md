@@ -32,28 +32,13 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=5" alt="Languages"/>
-</p>
 
-### AI / Machine Learning
-
-<p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="AI and ML"/>
-</p>
 
-### Web & Development
-
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap&perline=5" alt="Web Development"/>
-</p>
 
-### Tools & DevOps
-
-<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode&perline=5" alt="Tools"/>
 </p>
 
