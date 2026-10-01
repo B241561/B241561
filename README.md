@@ -1,49 +1,77 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# Arman Kaushik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=ARMAN%20KAUSHIK&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%7C%20Software%20%7C%20Data&descSize=17&descAlignY=58" width="100%" />
 
-**B.Tech CSE Student · Software Development · AI/ML · Data Analytics**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=55&lines=Building+things+that+solve+real+problems.;Software+Development+%7C+AI%2FML+%7C+Data+Analytics;Learning+by+building%2C+testing+%26+improving." />
+</a>
+
+<br>
 
 <a href="https://github.com/B241561">
-  <img src="https://img.shields.io/badge/GitHub-B241561-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-B241561-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/arman-kaushik-29b5b6370/">
-  <img src="https://img.shields.io/badge/LinkedIn-Arman%20Kaushik-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Arman%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
+<!-- ===================== ABOUT ===================== -->
 
-B.Tech CSE student focused on building practical software and AI-driven projects.
+## ⚡ About
 
-Currently strengthening:
+> **B.Tech CSE student building at the intersection of software, AI, and data.**
 
-**DSA · Java · Python · SQL · Machine Learning · Data Analytics · DevOps**
+I enjoy turning ideas into working projects — from desktop applications and machine-learning systems to data-driven tools and automation.
 
-Exploring:
+**Current focus**
 
-**Power BI · Tableau · Data Visualization · AI Engineering**
+`DSA` · `Java` · `Python` · `SQL` · `Machine Learning` · `Data Analytics` · `DevOps`
 
----
+**Exploring**
 
-## Tech Stack
-
-<div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/></div>
+`Power BI` · `Tableau` · `Data Visualization` · `AI Engineering`
 
 ---
 
-## Selected Projects
+<!-- ===================== TECH ===================== -->
 
-### AI Resume Analyzer
+## 🧰 Tech Stack
 
-Desktop application for:
+<div align="center">
 
-- Resume parsing — PDF / DOCX
-- ATS-oriented resume analysis
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,bootstrap,git,github,docker,jenkins,vscode,pytorch,tensorflow,sklearn&perline=16" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI Resume Analyzer
+
+AI-powered desktop application for:
+
+- PDF / DOCX resume parsing
+- ATS-oriented analysis
 - Job-description matching
 - Skill extraction
 - Gemini-assisted analysis
@@ -51,24 +79,42 @@ Desktop application for:
 - SQLite history
 - PDF report generation
 
-[View Repository →](https://github.com/B241561/AI-Resume-Analyze)
+**[View Project →](https://github.com/B241561/AI-Resume-Analyze)**
 
-### FeynML
+</td>
 
-ML failure-analysis engine focused on:
+<td width="50%">
 
-**Evaluation · Explainability · Root-Cause Analysis · Reliability**
+### 🔬 FeynML
 
-[View Repository →](https://github.com/B241561/FeynML)
+Machine-learning failure analysis engine focused on:
+
+`Evaluation`
+
+`Explainability`
+
+`Root-Cause Analysis`
+
+`Reliability`
+
+**[View Project →](https://github.com/B241561/FeynML)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+<!-- ===================== CURRENTLY BUILDING ===================== -->
+
+## 🧭 Currently Building
 
 ```text
-DSA                ████████████████░░░░
-Machine Learning   ██████████████░░░░░░
-Data Analytics     █████████████░░░░░░░
-Java               █████████████░░░░░░░
-SQL                ████████████░░░░░░░░
-DevOps             ██████████░░░░░░░░░░
+┌────────────────────────────────────────────────────┐
+│  DSA                ████████████████░░░            │
+│  Machine Learning   ██████████████░░░░             │
+│  Data Analytics     █████████████░░░░░             │
+│  Java               █████████████░░░░░             │
+│  SQL                ████████████░░░░░░             │
+│  DevOps             ██████████░░░░░░░░             │
+└────────────────────────────────────────────────────┘
