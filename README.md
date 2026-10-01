@@ -103,35 +103,7 @@ Machine-learning failure analysis engine focused on:
 </tr>
 </table>
 
-🧠 AI Resume Analyzer
 
-Desktop application for resume analysis with:
-
-PDF / DOCX text extraction
-
-ATS-oriented resume readiness analysis
-
-Job-description matching
-
-Technical and soft-skill extraction
-
-Gemini-powered analysis with local fallback
-
-OCR support for scanned PDFs
-
-SQLite history
-
-PDF report generation
-
-🔗 Repository: AI-Resume-Analyze
-
-🔬 FeynML — ML Failure Engine
-
-An explainability and failure-diagnosis project designed around the question:
-
-"Why did the model fail?"
-
-It focuses on model evaluation, failure diagnosis, root-cause analysis, explainability, and deployment-oriented workflows.
 
 🔗 Repository: FeynML
 
