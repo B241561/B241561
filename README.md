@@ -102,7 +102,69 @@ Machine-learning failure analysis engine focused on:
 </td>
 </tr>
 </table>
+🚀 Featured Projects
 
+🧠 AI Resume Analyzer
+
+Desktop application for resume analysis with:
+
+PDF / DOCX text extraction
+
+ATS-oriented resume readiness analysis
+
+Job-description matching
+
+Technical and soft-skill extraction
+
+Gemini-powered analysis with local fallback
+
+OCR support for scanned PDFs
+
+SQLite history
+
+PDF report generation
+
+🔗 Repository: AI-Resume-Analyze
+
+🔬 FeynML — ML Failure Engine
+
+An explainability and failure-diagnosis project designed around the question:
+
+"Why did the model fail?"
+
+It focuses on model evaluation, failure diagnosis, root-cause analysis, explainability, and deployment-oriented workflows.
+
+🔗 Repository: FeynML
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B241561&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B241561&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=B241561&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=B241561&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</p>
+
+📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/B241561/AI-Resume-Analyze">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B241561&repo=AI-Resume-Analyze&theme=dark" alt="AI Resume Analyze"/>
+  </a>
+  <a href="https://github.com/B241561/FeynML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B241561&repo=FeynML&theme=dark" alt="FeynML"/>
+  </a>
+</p>
 ---
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
