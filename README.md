@@ -32,14 +32,12 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=5" alt="Languages"/>
+---
 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=5" alt="AI and ML"/>
+## 🛠️ Tech Stack
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap&perline=5" alt="Web Development"/>
-
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode&perline=5" alt="Tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql,sklearn,pytorch,tensorflow,html,css,php,bootstrap,git,github,docker,jenkins,vscode,tableau,powerbi&perline=19" alt="Tech Stack"/>
 </p>
 
 ---
