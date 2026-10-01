@@ -26,7 +26,7 @@
 
 ## ⚡ About
 
-> **B.Tech CSE student building at the intersection of software, AI, and data.**
+> **B.Tech CSE student building , AI/ML, and Data Science projects.**
 
 I enjoy turning ideas into working projects — from desktop applications and machine-learning systems to data-driven tools and automation.
 
