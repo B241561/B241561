@@ -35,7 +35,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=5" alt="Languages"/>
 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=4" alt="AI and ML"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&perline=5" alt="AI and ML"/>
 
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap&perline=5" alt="Web Development"/>
 
