@@ -32,23 +32,6 @@
 
 ---
 
-<!-- ===================== FEYNML HERO ===================== -->
-
-<div align="center">
-
-## 🧠 FeynML
-
-<p>
-  <b>ML Failure Engine · Explainability · Root Cause Analysis</b>
-</p>
-
-<img src="assets/feynml-hero.gif" width="560" alt="FeynML 4D Hypercube Animation" />
-
-<br>
-
-<sub>Rotating hyperplane · audit trace live</sub>
-
-</div>
 
 ---
 
