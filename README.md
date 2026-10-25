@@ -5,9 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=ARMAN%20KAUSHIK&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%7C%20Data%20Science&descSize=17&descAlignY=58" width="100%" />
 
 <br>
-
-<br><br>
-
 <a href="https://github.com/B241561">
   <img src="https://img.shields.io/badge/GitHub-B241561-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a> &nbsp;
