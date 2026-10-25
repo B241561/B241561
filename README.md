@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-36454F?style=flat-square&logo=jupyter&logoColor=white" />
 </div>
 
 
@@ -47,7 +47,7 @@
 
 🔗 Repository: FeynML
 
-📊 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B241561&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats"/>
@@ -55,12 +55,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B241561&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
-🔥 Contribution Streak
+Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=B241561&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-📌 Pinned Repositories
+ Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/B241561/AI-Resume-Analyze">
@@ -73,13 +73,13 @@
 ---
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Selected Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Resume Analyzer
+### AI Resume Analyzer
 
 AI-powered desktop application for:
 
@@ -98,7 +98,7 @@ AI-powered desktop application for:
 
 <td width="50%">
 
-### 🔬 FeynML
+###  FeynML
 
 Machine-learning failure analysis engine focused on:
 
