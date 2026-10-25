@@ -24,11 +24,6 @@
 </p>
 
 ---
-<!-- ===================== ABOUT ===================== -->
-
-## ⚡ About
-
-> **B.Tech CSE student building AI/ML, Data Science, and software projects.**
 
 
 <!-- ===================== TECH STACK ===================== -->
