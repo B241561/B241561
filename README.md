@@ -58,7 +58,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=B241561&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
- Pinned Repositories
+
+## Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/B241561/AI-Resume-Analyze">
