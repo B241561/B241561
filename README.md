@@ -97,8 +97,8 @@ AI-powered desktop application for:
 
 <td width="50%">
 &nbsp;
-###  FeynML
 
+### FeynML
 Machine-learning failure analysis engine focused on:
 
 `Evaluation`
