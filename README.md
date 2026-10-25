@@ -6,10 +6,6 @@
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&height=55&lines=Building+things+that+solve+real+problems.;AI%2FML+%7C+Data+Science;Learning+by+building%2C+testing+%26+improving." />
-</a>
-
 <br><br>
 
 <a href="https://github.com/B241561">
