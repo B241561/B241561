@@ -57,13 +57,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=B241561&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B241561&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
 📌 Pinned Repositories
 
 <p align="center">
