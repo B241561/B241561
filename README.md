@@ -26,15 +26,15 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,bootstrap,git,github,docker,jenkins,vscode,pytorch,tensorflow,sklearn&perline=16" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,bootstrap,git,github,sql,docker,jenkins,vscode,pytorch,tensorflow,sklearn&perline=16" />
 
 <br><br>
+###Tools
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 
