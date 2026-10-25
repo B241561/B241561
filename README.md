@@ -5,12 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1C1C1C,100:36454F&height=220&section=header&text=ARMAN%20KAUSHIK&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%7C%20Data%20Science&descSize=17&descAlignY=58&descColor=FFFFFF" width="100%" />
 
 <br>
-<a href="https://github.com/B241561">
-  <img src="https://img.shields.io/badge/GitHub-B241561-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>       &nbsp;
+      
 <a href="https://www.linkedin.com/in/arman-kaushik-29b5b6370/">
   <img src="https://img.shields.io/badge/LinkedIn-Arman%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a> &nbsp;
+<a href="https://github.com/B241561">
+  <img src="https://img.shields.io/badge/GitHub-B241561-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
 
 </div>
 
