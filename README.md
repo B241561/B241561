@@ -44,7 +44,6 @@
 
 
 
-## Repository: FeynML
 
 ## GitHub Stats
 
