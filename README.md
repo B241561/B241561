@@ -31,18 +31,12 @@
 </p>
 
 ---
-
-
----
-
 <!-- ===================== ABOUT ===================== -->
 
 ## ⚡ About
 
 > **B.Tech CSE student building AI/ML, Data Science, and software projects.**
 
-I enjoy turning ideas into working projects — from desktop applications and machine-learning systems to data-driven tools and automation
----
 
 <!-- ===================== TECH STACK ===================== -->
 
