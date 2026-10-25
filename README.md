@@ -7,7 +7,7 @@
 <br>
 <a href="https://github.com/B241561">
   <img src="https://img.shields.io/badge/GitHub-B241561-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a> &nbsp;
+</a>       &nbsp;
 <a href="https://www.linkedin.com/in/arman-kaushik-29b5b6370/">
   <img src="https://img.shields.io/badge/LinkedIn-Arman%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
