@@ -48,6 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B241561&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats"/>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B241561&layout=compact&theme=dark&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
